@@ -1,0 +1,16 @@
+.imgRedonda {
+    margin-top: 12%;
+    width: 95%;
+    height: 5vh;
+    border-radius: 100%;
+  }
+  
+  .menuu{
+    margin-left: 50%;
+  }
+
+  .menu-principal ul li {
+    list-style: none;
+    display: inline-block;
+    padding: 15px 4%;
+}

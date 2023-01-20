@@ -1,0 +1,18 @@
+* {
+    font-family: Arial, Helvetica, sans-serif !important;
+}
+.fondo{
+        background-image: url('../img/Administrador.jpg');
+        background-repeat: no-repeat;
+        background-size: cover;
+}
+.bcancelar{
+    border: 1px solid black;
+    box-shadow: 2px 2px 6px #999;
+}
+.tarjeta{
+    
+    background-color: #B9E2FF !important;
+    
+    box-shadow: 2px 2px 7px #999;
+}

@@ -1,0 +1,30 @@
+* {
+    font-family: Arial, Helvetica, sans-serif !important;
+}
+body {
+
+
+     background-color: #b9e2ff;
+}
+
+
+
+.botones {
+    padding-top: 5%;
+}
+
+.fondos {
+
+    margin: 60px;
+    width: 70%;
+    margin-left: 16%;
+    margin-top: 42px;
+    border-radius: 5px;
+    box-shadow: 1px 0px 4px 2px rgb(0 0 0 / 12%);
+    height: 70vh;
+    background-color: white;
+}
+.bot{
+    color: white;
+    
+}

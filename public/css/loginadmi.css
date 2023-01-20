@@ -1,0 +1,24 @@
+/* body{
+    background-image: url(../img/loginadmi.jpeg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100vh;
+    width: 100vh;
+   
+} */
+* {
+    font-family: Arial, Helvetica, sans-serif !important;
+}
+.fondo{
+    background-image: url(../img/adminlogin.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.bcancelar{
+    border: 1px solid black;
+    box-shadow: 2px 2px 4px #999;
+}
+.tarjeta{
+    box-shadow: 2px 2px 5px #999;
+
+}
