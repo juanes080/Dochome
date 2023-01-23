@@ -22,7 +22,3 @@ Route::middleware('auth:api')->get('/user', function (Request $request) {
 
 
 Route::post('/loginUser', [LoginController::class, 'store']);
-
-Route::get('/course',[CourserController::class,'store']);
-
-Route::get('/course/{id}',[CourserController::class,'show']);
