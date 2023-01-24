@@ -1,4 +1,4 @@
-<link rel="stylesheet" href="{{ asset('css/header.css') }}">
+<link rel="stylesheet" href="{{  secure_asset('css/header.css') }}">
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/css/bootstrap.min.css">
 
 <header class="opciones">

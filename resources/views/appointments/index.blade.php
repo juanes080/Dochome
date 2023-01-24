@@ -9,8 +9,8 @@
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.1/dist/css/bootstrap.min.css" rel="stylesheet"
         integrity="sha384-iYQeCzEYFbKjA/T2uDLTpkwGzCiq6soy8tYaI1GyVh/UjpbCx/TYkiZhlZB6+fzT" crossorigin="anonymous">
     <link href='https://unpkg.com/boxicons@2.0.7/css/boxicons.min.css' rel='stylesheet'>
-    <link rel="stylesheet" href="{{ asset('css/citas.css') }}">
-    <link rel="stylesheet" href="{{ asset('css/perfilpaciente.css') }}">
+    <link rel="stylesheet" href="{{  secure_asset('css/citas.css') }}">
+    <link rel="stylesheet" href="{{ secure_asset('css/perfilpaciente.css') }}">
     <link href='https://unpkg.com/boxicons@2.0.7/css/boxicons.min.css' rel='stylesheet'>
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/css/bootstrap.min.css" rel="stylesheet"
         integrity="sha384-Zenh87qX5JnK2Jl0vWa8Ck2rdkQ2Bzep5IDxbcnCeuOxjzrPF/et3URy9Bv1WTRi" crossorigin="anonymous">
@@ -29,7 +29,7 @@
     </script>
 
     <link rel="canonical" href="https://getbootstrap.com/docs/5.2/examples/sidebars/">
-    <link href="{{ asset('css/argon-dashboard.css?v=1.1.2') }}" />
+    <link href="{{  secure_asset('css/argon-dashboard.css?v=1.1.2') }}" />
 </head>
 
 <body>
